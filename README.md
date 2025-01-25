@@ -148,6 +148,6 @@ Contributions are welcome!
 
 ## **Contact**
 For any questions, feel free to reach out:  
-**Your Name**  
-[Amir_mansouri92@yahoo.com]  
-[(https://github.com/AmirMansouri92/)]
+Amir Mansouri 
+Amir_mansouri92@yahoo.com  
+https://github.com/AmirMansouri92/
