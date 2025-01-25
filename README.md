@@ -148,6 +148,5 @@ Contributions are welcome!
 
 ## **Contact**
 For any questions, feel free to reach out:  
-Amir Mansouri 
 Amir_mansouri92@yahoo.com  
 https://github.com/AmirMansouri92/
