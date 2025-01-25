@@ -1,6 +1,25 @@
 # **Shortest Path Problem Solver Using Ant Colony Optimization**
 
-![Project Logo (optional)](path/to/logo.png)
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+  - [Input Format](#input-format)
+  - [Running the Program](#running-the-program)
+  - [Output](#output)
+- [Algorithm Details](#algorithm-details)
+  - [Termination Criterion](#termination-criterion)
+- [File Structure](#file-structure)
+- [Examples](#examples)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
+- [Contact](#contact)
+
 
 ## **Overview**
 This repository contains a C++ implementation of the **Shortest Path Problem (SPP)** using the nature-inspired **Ant Colony Optimization (ACO)** algorithm. The objective is to find an optimal or near-optimal path between two nodes in a graph while minimizing the total distance.  
@@ -25,7 +44,6 @@ Ensure the following software is installed on your system:
 - **CMake** (optional, for building the project).
 - Any modern IDE or command-line tools for C++.
 
-### Installation
 ### Installation
 1. Clone the repository:
    ```bash
