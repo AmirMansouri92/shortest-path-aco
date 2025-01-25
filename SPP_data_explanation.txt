@@ -1,0 +1,4 @@
+number of nodes		number of edges the start node		the end node
+
+the start node of the edge		the end node of the edge			cost
+
